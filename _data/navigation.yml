@@ -1,10 +1,10 @@
 # main links
 main:
    - title: "Home"
-     url: /about/
+     url: /home/
    - title: "CV"
      url: /cv/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+   - title: "Research"
+     url: /research/
+   - title: "Teaching"
+     url: /teaching/
