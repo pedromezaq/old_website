@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+
 
 You can download my CV [here](../files/CV.pdf).
 
@@ -46,9 +46,3 @@ Skills
 * Python (basic)
 * QGIS (basic)
 
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
