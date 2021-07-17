@@ -1,7 +1,7 @@
 ---
 layout: single
 header:
-  image: /assets/images/test.png
+  overlay_image: /assets/images/test.png
 title: "Teaching"
 permalink: /teaching/
 author_profile: true
