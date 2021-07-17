@@ -2,7 +2,7 @@
 layout: single
 
 title: "Teaching"
-excerpt: " <br/><br/><br/><br/><br/><br/><br/><br/> "
+excerpt: " <br/><br/><br/><br/><br/><br/> "
 header:
   overlay_image: /assets/images/test.png
 permalink: /teaching/
