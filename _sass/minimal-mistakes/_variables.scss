@@ -22,17 +22,23 @@ $serif: AnnapurnaSILW !default;
 $sans-serif: AnnapurnaSILW !default; 
 $monospace: AnnapurnaSILW !default; 
 $sans-serif-narrow: AnnapurnaSILW !default; 
-
+$helvetica: AnnapurnaSILW !default;
+$georgia: AnnapurnaSILW !default;
+$times: AnnapurnaSILW !default;
+$bodoni: AnnapurnaSILW !default;
+$calisto: AnnapurnaSILW !default;
+$garamond: AnnapurnaSILW !default;
 /* sans serif typefaces */
 //$sans-serif-narrow: $sans-serif !default;
-$helvetica: Helvetica, "Helvetica Neue", Arial, sans-serif !default;
+
+//$helvetica: Helvetica, "Helvetica Neue", Arial, sans-serif !default;
 $annapurna: AnnapurnaSILW !default; 
 /* serif typefaces */
-$georgia: Georgia, serif !default;
-$times: Times, serif !default;
-$bodoni: "Bodoni MT", serif !default;
-$calisto: "Calisto MT", serif !default;
-$garamond: Garamond, serif !default;
+//$georgia: Georgia, serif !default;
+//$times: Times, serif !default;
+//$bodoni: "Bodoni MT", serif !default;
+//$calisto: "Calisto MT", serif !default;
+//$garamond: Garamond, serif !default;
 
 $global-font-family:  $sans-serif !default;
 $header-font-family:   $sans-serif !default;
