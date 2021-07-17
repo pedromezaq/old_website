@@ -1,15 +1,10 @@
 ---
 layout: single
+
+title: "Teaching"
+excerpt: " <br/><br/><br/><br/><br/><br/><br/><br/> "
 header:
   overlay_image: /assets/images/test.png
-  excerpt: "
-  
-  
-  
-  
-  
-  "
-title: "Teaching"
 permalink: /teaching/
 author_profile: false
 ---
