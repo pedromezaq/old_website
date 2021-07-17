@@ -1,12 +1,10 @@
 ---
 layout: single
 header:
-  overlay_image: /assets/images/test.png
+  image: /assets/images/test.png
 title: "Teaching"
 permalink: /teaching/
 author_profile: false
-redirect_from:
-  - /resume
 ---
 
 
