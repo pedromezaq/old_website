@@ -2,7 +2,7 @@
 permalink: /home/
 title: "Pedro's website"
 excerpt: "Home"
-author_profile: true
+author_profile: false
 redirect_from: 
   - /about/
   - /about.html
