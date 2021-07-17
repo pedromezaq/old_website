@@ -1,5 +1,5 @@
 ---
-layout: single_copy
+layout: home
 author_profile: true
 ---
 
