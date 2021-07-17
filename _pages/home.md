@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: single_copy
 permalink: /home/
 title: "Home"
 #excerpt: " <br/><br/><br/><br/><br/><br/> "
