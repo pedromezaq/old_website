@@ -1,7 +1,9 @@
 ---
+layout: single
 permalink: /home/
-title: "Pedro's website"
-excerpt: "Home"
+title: "Home"
+#excerpt: " <br/><br/><br/><br/><br/><br/> "
+#excerpt: "Home"
 author_profile: false
 redirect_from: 
   - /about/

@@ -29,7 +29,7 @@ Work experience
   *Regulation of Wholesale Prices in Telecommunications.
 
 * Feb 2015 - Jun 2015: Secretaría de Economía, Mexico. 
-  *(Ministiry of Economy, Mexico.)
+  *(Ministry of Economy, Mexico.)
   *Assistant at Nuevo León's branch.
 
 * Jan 2014 - Jul 2014: Banco de México
