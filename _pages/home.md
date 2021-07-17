@@ -10,12 +10,18 @@ redirect_from:
   - /about.html
 ---
 
-
-img {
-    max-width:30%;
-    height:auto;
-}
-<img src="/assets/images/profile.png" style="height: 500px; width:500px;"/>
+        <style> 
+            .gfg {
+                width:auto;
+                text-align:center;
+                padding:20px;
+            }
+            img {
+                max-width:30%;
+                        height:auto;
+            }
+        </style> 
+<img src="/assets/images/profile.png"/>
 
 <!---
 I'm a sixth-year Ph.D student at Michigan State University. My interests are 
