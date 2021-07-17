@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 permalink: /home/
 title: "Home"
 #excerpt: " <br/><br/><br/><br/><br/><br/> "
