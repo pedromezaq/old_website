@@ -14,7 +14,6 @@ redirect_from:
 img {
     max-width:30%;
     height:auto;
-    src: 
 }
 <img src="/assets/images/profile.png" style="height: 500px; width:500px;"/>
 
