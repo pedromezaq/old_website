@@ -4,7 +4,7 @@ layout: single
 title: "Teaching"
 excerpt: " <br/><br/><br/><br/><br/><br/> "
 header:
-  overlay_image: /assets/images/test.png
+  overlay_image: /assets/images/teaching.png
 permalink: /teaching/
 author_profile: false
 ---
