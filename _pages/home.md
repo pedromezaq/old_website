@@ -10,7 +10,7 @@ redirect_from:
   - /about.html
 ---
 
-<img src="/assets/img/profile.png" alt="MarineGEO circle logo" style="height: 100px; width:100px;"/>
+<img src="/assets/images/profile.png" alt="MarineGEO circle logo" style="height: 100px; width:100px;"/>
 
 <!---
 I'm a sixth-year Ph.D student at Michigan State University. My interests are 
