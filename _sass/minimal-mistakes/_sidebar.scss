@@ -136,7 +136,20 @@
     }
   }
 }
+.author__urls-wrapper {
+  position: relative;
+  bottom: 10px;
+  display: table-cell;
+  vertical-align: bottom;
+  font-family: $sans-serif;
+  z-index: 20;
+  cursor: pointer;
 
+  li:last-child {
+    a {
+      margin-bottom: 0;
+    }
+  }
 .author__content {
   display: table-cell;
   vertical-align: top;
@@ -179,20 +192,7 @@
   }
 }
 
-.author__urls-wrapper {
-  position: relative;
-  bottom: 10px;
-  display: table-cell;
-  vertical-align: bottom;
-  font-family: $sans-serif;
-  z-index: 20;
-  cursor: pointer;
 
-  li:last-child {
-    a {
-      margin-bottom: 0;
-    }
-  }
 
   .author__urls {
     span.label {
