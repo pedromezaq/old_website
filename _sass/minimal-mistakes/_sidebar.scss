@@ -118,7 +118,7 @@
   display: table-cell;
   vertical-align: top;
   width: 300px;
-  height: 400px;
+  height: 300px;
 
   @include breakpoint($large) {
     display: block;
@@ -131,7 +131,7 @@
     // border-radius: 50%;
 
     @include breakpoint($large) {
-      padding: 15px;
+      padding: 5px;
       // border: 1px solid $border-color;
     }
   }
