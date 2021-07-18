@@ -1,6 +1,4 @@
 ---
-layout: home
+layout: home_original
 author_profile: true
 ---
-
-asdfasdfk alsdkjf alsjdf asl;df jkasldj flasdjfk asj[df lkasjdfl asjldkf asdjf]
