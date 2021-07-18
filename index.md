@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single_copy
 author_profile: true
 redirect_from: 
   - /home/
