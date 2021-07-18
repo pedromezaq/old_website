@@ -180,7 +180,7 @@
 }
 
 .author__urls-wrapper {
-  position: static;
+  position: relative;
   display: table-cell;
   vertical-align: middle;
   font-family: $sans-serif;
@@ -204,7 +204,7 @@
   }
 
   button {
-    position: static;
+    position: relative;
     margin-bottom: 0;
 
     &:before {
