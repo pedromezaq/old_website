@@ -1,5 +1,5 @@
 ---
-layout: default_home
+layout: archive
 author_profile: true
 redirect_from: 
   - /home/
