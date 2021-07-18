@@ -226,7 +226,7 @@
     }
 
     @include breakpoint($large) {
-      display: none;
+      display: bottom;
     }
   }
 }
