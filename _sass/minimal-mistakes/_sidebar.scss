@@ -129,6 +129,7 @@
 
   img {
     max-width: 100%;
+    justify-content: center;
     // border-radius: 50%;
     @include breakpoint($large) {
       padding: 5px;
@@ -136,6 +137,7 @@
     }
   }
 }
+
 .author__urls-wrapper {
   position: relative;
   bottom: 10px;
