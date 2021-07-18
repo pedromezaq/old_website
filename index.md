@@ -1,4 +1,4 @@
 ---
-layout: home_original
+layout: default
 author_profile: true
 ---
