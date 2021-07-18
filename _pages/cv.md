@@ -5,7 +5,8 @@ permalink: /cv/
 author_profile: false
 excerpt: " <br/><br/><br/><br/><br/><br/> "
 header:
-  overlay_image: /assets/images/test2.png
+  overlay_image: /assets/images/cv.png
+  caption: "Charles M. Carrillo: Mi mamá mexicana Nuestra Señora de Guadalupe, 2006. Museum "
 redirect_from:
   - /resume
 ---
