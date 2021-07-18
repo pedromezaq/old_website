@@ -128,16 +128,11 @@
     height: auto;
   }
 
-  .center {
+  img {
+    max-width: 100%;
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 50%;
-  }
-
-  img {
-    max-width: 100%;
-    align-items: center;
     // border-radius: 50%;
     @include breakpoint($large) {
       padding: 5px;
