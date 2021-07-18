@@ -4,7 +4,7 @@ layout: single
 title: "Public Finance II"
 excerpt: " <br/><br/><br/><br/><br/><br/> "
 header:
-  overlay_image: /assets/images/publicfinance.png
+  overlay_image: /assets/images/publicfinance.jpg
 permalink: /teaching/publicfinance/
 author_profile: false
 ---
