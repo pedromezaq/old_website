@@ -1,6 +1,5 @@
 ---
 layout: single
-
 title: "Research"
 excerpt: "<br/><br/><br/><br/><br/><br/>"
 header:
