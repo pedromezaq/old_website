@@ -6,7 +6,7 @@ author_profile: false
 excerpt: " <br/><br/><br/><br/><br/><br/> "
 header:
   overlay_image: /assets/images/cv.jpg
-  caption: "Charles M. Carrillo: Mi mamá mexicana Nuestra Señora de Guadalupe, 2006. Museum "
+  caption: "Charles M. Carrillo: Mi mamá mexicana Nuestra Señora de Guadalupe, 2006."
 redirect_from:
   - /resume
 ---
