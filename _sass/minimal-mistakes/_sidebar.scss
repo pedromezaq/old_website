@@ -19,8 +19,6 @@
   @include breakpoint($large) {
     float: left;
     width: calc(#{$right-sidebar-width-narrow} - 1em);
-    text-align: center;
-    align-items: center;
     // remove opacity of sidebar.
     //opacity: 0.75;
     //-webkit-transition: opacity 0.2s ease-in-out;
@@ -120,7 +118,7 @@
 .author__avatar {
   display: table-cell;
   vertical-align: top;
-  justify-content: center;
+  align-items: center;
   width: 300px;
   height: 300px;
 
@@ -132,6 +130,7 @@
 
   img {
     max-width: 100%;
+    align-items: : center;
     // border-radius: 50%;
     @include breakpoint($large) {
       padding: 5px;
@@ -145,6 +144,8 @@
   bottom: 10px;
   display: table-cell;
   vertical-align: bottom;
+  align-items: center;
+  //text-align:  center;
   font-family: $sans-serif;
   z-index: 20;
   cursor: pointer;
