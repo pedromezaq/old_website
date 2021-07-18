@@ -180,7 +180,7 @@
 }
 
 .author__urls-wrapper {
-  position: relative;
+  position: bottom;
   display: table-cell;
   vertical-align: middle;
   font-family: $sans-serif;
@@ -226,7 +226,7 @@
     }
 
     @include breakpoint($large) {
-      display: bottom;
+      display: none;
     }
   }
 }
