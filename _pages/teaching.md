@@ -9,12 +9,6 @@ permalink: /teaching/
 author_profile: false
 ---
 
-You can download my CV [here](../files/CV.pdf).
-
-También puedes descargar mi CV en español [aquí](../files/CV_spanish.pdf).
-
-
-
 Instructor
 ======
 * [Public Finance II](/teaching/publicfinance/), Universidad Autónoma de Nuevo León. Summer 2018.
