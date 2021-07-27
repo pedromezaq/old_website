@@ -212,7 +212,9 @@
 
   button {
     position: relative;
+    /* Button position so that it is centered in the bottom of the picture.*/
     bottom: 10px;
+    left: 100px;
     margin-bottom: 0;
 
     &:before {
@@ -242,7 +244,8 @@
 .author__urls {
   display: none;
   position: absolute;
-  right: 0;
+  /*removing right moves the menu to the right and in view. 
+  right: 0;*/
   margin-top: 15px;
   padding: 10px;
   list-style-type: none;
